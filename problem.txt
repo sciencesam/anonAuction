@@ -1,0 +1,8 @@
+Challange problem:
+
+	You need to create an anonomous auction site.
+	The issue to prevent is how to stop someone from artificially increasing their own bid.
+	Someone could also bid on a bunch of items and not pay.
+
+	You need to track each person for a thread and only allow them to submit one bid at a time.
+	You should also rate each bidder/auctioneer. This rating verifies them.
